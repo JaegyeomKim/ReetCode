@@ -1,0 +1,14 @@
+C:\Users\jaegy\source\repos\PoweOfTow\bin\Debug\netcoreapp3.1\PoweOfTow.exe
+C:\Users\jaegy\source\repos\PoweOfTow\bin\Debug\netcoreapp3.1\PoweOfTow.deps.json
+C:\Users\jaegy\source\repos\PoweOfTow\bin\Debug\netcoreapp3.1\PoweOfTow.runtimeconfig.json
+C:\Users\jaegy\source\repos\PoweOfTow\bin\Debug\netcoreapp3.1\PoweOfTow.runtimeconfig.dev.json
+C:\Users\jaegy\source\repos\PoweOfTow\bin\Debug\netcoreapp3.1\PoweOfTow.dll
+C:\Users\jaegy\source\repos\PoweOfTow\bin\Debug\netcoreapp3.1\PoweOfTow.pdb
+C:\Users\jaegy\source\repos\PoweOfTow\obj\Debug\netcoreapp3.1\PoweOfTow.csproj.AssemblyReference.cache
+C:\Users\jaegy\source\repos\PoweOfTow\obj\Debug\netcoreapp3.1\PoweOfTow.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jaegy\source\repos\PoweOfTow\obj\Debug\netcoreapp3.1\PoweOfTow.AssemblyInfoInputs.cache
+C:\Users\jaegy\source\repos\PoweOfTow\obj\Debug\netcoreapp3.1\PoweOfTow.AssemblyInfo.cs
+C:\Users\jaegy\source\repos\PoweOfTow\obj\Debug\netcoreapp3.1\PoweOfTow.csproj.CoreCompileInputs.cache
+C:\Users\jaegy\source\repos\PoweOfTow\obj\Debug\netcoreapp3.1\PoweOfTow.dll
+C:\Users\jaegy\source\repos\PoweOfTow\obj\Debug\netcoreapp3.1\PoweOfTow.pdb
+C:\Users\jaegy\source\repos\PoweOfTow\obj\Debug\netcoreapp3.1\PoweOfTow.genruntimeconfig.cache
