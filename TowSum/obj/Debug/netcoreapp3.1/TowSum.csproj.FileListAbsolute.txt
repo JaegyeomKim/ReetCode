@@ -1,0 +1,14 @@
+C:\Users\jaegy\Desktop\ReetCode\TowSum\bin\Debug\netcoreapp3.1\TowSum.exe
+C:\Users\jaegy\Desktop\ReetCode\TowSum\bin\Debug\netcoreapp3.1\TowSum.deps.json
+C:\Users\jaegy\Desktop\ReetCode\TowSum\bin\Debug\netcoreapp3.1\TowSum.runtimeconfig.json
+C:\Users\jaegy\Desktop\ReetCode\TowSum\bin\Debug\netcoreapp3.1\TowSum.runtimeconfig.dev.json
+C:\Users\jaegy\Desktop\ReetCode\TowSum\bin\Debug\netcoreapp3.1\TowSum.dll
+C:\Users\jaegy\Desktop\ReetCode\TowSum\bin\Debug\netcoreapp3.1\TowSum.pdb
+C:\Users\jaegy\Desktop\ReetCode\TowSum\obj\Debug\netcoreapp3.1\TowSum.csproj.AssemblyReference.cache
+C:\Users\jaegy\Desktop\ReetCode\TowSum\obj\Debug\netcoreapp3.1\TowSum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jaegy\Desktop\ReetCode\TowSum\obj\Debug\netcoreapp3.1\TowSum.AssemblyInfoInputs.cache
+C:\Users\jaegy\Desktop\ReetCode\TowSum\obj\Debug\netcoreapp3.1\TowSum.AssemblyInfo.cs
+C:\Users\jaegy\Desktop\ReetCode\TowSum\obj\Debug\netcoreapp3.1\TowSum.csproj.CoreCompileInputs.cache
+C:\Users\jaegy\Desktop\ReetCode\TowSum\obj\Debug\netcoreapp3.1\TowSum.dll
+C:\Users\jaegy\Desktop\ReetCode\TowSum\obj\Debug\netcoreapp3.1\TowSum.pdb
+C:\Users\jaegy\Desktop\ReetCode\TowSum\obj\Debug\netcoreapp3.1\TowSum.genruntimeconfig.cache
