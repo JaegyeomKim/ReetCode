@@ -1,0 +1,14 @@
+C:\Users\jaegy\Desktop\ReetCode\PalindromeNumber\bin\Debug\netcoreapp3.1\PalindromeNumber.exe
+C:\Users\jaegy\Desktop\ReetCode\PalindromeNumber\bin\Debug\netcoreapp3.1\PalindromeNumber.deps.json
+C:\Users\jaegy\Desktop\ReetCode\PalindromeNumber\bin\Debug\netcoreapp3.1\PalindromeNumber.runtimeconfig.json
+C:\Users\jaegy\Desktop\ReetCode\PalindromeNumber\bin\Debug\netcoreapp3.1\PalindromeNumber.runtimeconfig.dev.json
+C:\Users\jaegy\Desktop\ReetCode\PalindromeNumber\bin\Debug\netcoreapp3.1\PalindromeNumber.dll
+C:\Users\jaegy\Desktop\ReetCode\PalindromeNumber\bin\Debug\netcoreapp3.1\PalindromeNumber.pdb
+C:\Users\jaegy\Desktop\ReetCode\PalindromeNumber\obj\Debug\netcoreapp3.1\PalindromeNumber.csproj.AssemblyReference.cache
+C:\Users\jaegy\Desktop\ReetCode\PalindromeNumber\obj\Debug\netcoreapp3.1\PalindromeNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jaegy\Desktop\ReetCode\PalindromeNumber\obj\Debug\netcoreapp3.1\PalindromeNumber.AssemblyInfoInputs.cache
+C:\Users\jaegy\Desktop\ReetCode\PalindromeNumber\obj\Debug\netcoreapp3.1\PalindromeNumber.AssemblyInfo.cs
+C:\Users\jaegy\Desktop\ReetCode\PalindromeNumber\obj\Debug\netcoreapp3.1\PalindromeNumber.csproj.CoreCompileInputs.cache
+C:\Users\jaegy\Desktop\ReetCode\PalindromeNumber\obj\Debug\netcoreapp3.1\PalindromeNumber.dll
+C:\Users\jaegy\Desktop\ReetCode\PalindromeNumber\obj\Debug\netcoreapp3.1\PalindromeNumber.pdb
+C:\Users\jaegy\Desktop\ReetCode\PalindromeNumber\obj\Debug\netcoreapp3.1\PalindromeNumber.genruntimeconfig.cache
